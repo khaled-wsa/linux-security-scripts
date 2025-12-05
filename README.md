@@ -12,7 +12,7 @@ Detect malware, backdoors, and exploitation attempts on Linux servers.
 ## Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/linux-security-scripts.git
+git clone https://github.com/khaled-wsa/linux-security-scripts.git
 cd linux-security-scripts
 chmod +x *.sh
 ```
